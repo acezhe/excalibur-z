@@ -1,0 +1,7 @@
+[workspace]
+members = ["z-http-client"]
+
+[workspace.package]
+edition = "2021"
+authors = ["AceZhe"]
+license = "MIT"
